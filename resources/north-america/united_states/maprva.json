@@ -1,0 +1,14 @@
+{
+  "id": "mappy-hour-rva",
+  "type": "group",
+  "locationSet": {"include": [[ -77.47481674524667, 37.534675647676266]]},
+  "strings": {
+    "name": "Mappy Hour RVA",
+    "description": "Mapping/OSM happy hour",
+    "url": "https://mappy-hour-rva.glitch.me"
+  },
+  "contacts": [
+    {"name": "Organizer", "email": "dschep@gmail.com"},
+    {"name": "Organizer", "email": "rkoeze@gmail.com"}
+  ]
+}
