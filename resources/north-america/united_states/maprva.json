@@ -1,11 +1,12 @@
 {
-  "id": "mappy-hour-rva",
-  "type": "group",
+  "id": "maprva",
+  "type": "mastodon",
+  "account": "@maprva@en.osm.town",
   "locationSet": {"include": [[ -77.47481674524667, 37.534675647676266]]},
   "strings": {
-    "name": "Mappy Hour RVA",
-    "description": "Mapping/OSM happy hour",
-    "url": "https://mappy-hour-rva.glitch.me"
+    "name": "MapRVA",
+    "description": "ALocal Richmond group of OSM Mappers",
+    "url": "https://en.osm.town/@maprva"
   },
   "contacts": [
     {"name": "Organizer", "email": "dschep@gmail.com"},
